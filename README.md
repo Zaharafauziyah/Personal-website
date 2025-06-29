@@ -1,1 +1,2 @@
-# Personal-website
+# Personal-website![Screenshot (110)](https://github.com/user-attachments/assets/d6bd6a11-e5de-4a15-8ea9-95a094be3111)
+Halaman ini merupakan tampilan utama yang menyajikan daftar artikel terbaru yang telah dipublikasikan. Artikel ditampilkan secara ringkas dan rapi dengan susunan dua kolom: kolom artikel terbaru di sebelah kiri, dan daftar judul artikel lainnya di sebelah kanan. Pengunjung dapat membaca cuplikan artikel untuk mengetahui isi singkatnya sebelum mengakses halaman lengkap.
