@@ -1,5 +1,4 @@
 # Personal-website!Deskripsi
-Deskripsi
 
 Studi kasus ini bertujuan untuk membangun sebuah aplikasi web personal yang bersifat dinamis, di mana pemilik web dapat mengelola konten secara mandiri melalui halaman admin. Aplikasi dikembangkan menggunakan PHP dan menyimpan data menggunakan database MySQL. Tampilan antarmuka dirancang menggunakan Tailwind CSS agar responsif, modern, dan mudah dikustomisasi.
 
@@ -22,10 +21,17 @@ Database : MySQL
 Frontend : Tailwind CSS, HTML
 Server Side : Apache / XAMPP
 Struktur Folder
+
+
+
 ![Screenshot (110)](https://github.com/user-attachments/assets/8de61775-9b00-497f-8760-ca3a4430b22e)
+
 Halaman ini merupakan tampilan utama yang menyajikan daftar artikel terbaru yang telah dipublikasikan. Artikel ditampilkan secara ringkas dan rapi dengan susunan dua kolom: kolom artikel terbaru di sebelah kiri, dan daftar judul artikel lainnya di sebelah kanan. Pengunjung dapat membaca cuplikan artikel untuk mengetahui isi singkatnya sebelum mengakses halaman lengkap.
+
 ![Screenshot (111)](https://github.com/user-attachments/assets/c76fe3a7-46a4-41fe-98c5-ca7323445765)
+
 Elemen Tambahan – Komentar
+
 Elemen tambahan pada halaman ini adalah fitur komentar yang terletak di bagian bawah artikel. Pengunjung dapat mengisi nama dan menulis komentar sebagai tanggapan terhadap artikel yang dibaca. Kolom komentar ini terdiri dari form input nama, kolom teks komentar, serta tombol kirim dan batal. Fitur ini menambah interaksi antara pembaca dan penulis artikel dalam halaman personal web.
 ![Screenshot (112)](https://github.com/user-attachments/assets/a1d163ca-941f-4819-b5f8-451df2a7516b)
 Halaman Gallery
@@ -46,8 +52,8 @@ Halaman ini berisi profil singkat dari pemilik website, yaitu Zahara Fauziyah. T
 
 ![image](https://github.com/user-attachments/assets/be3df0a8-6fba-4990-8046-2ba8106aedb7)
 
-Halaman Dashboard Admin
+‎ Halaman Login
 
-Halaman ini merupakan halaman awal yang muncul setelah admin berhasil login. Tampilan dashboard didesain dengan nuansa warna pink yang menarik dan karakter visual yang lucu. Di bagian tengah halaman terdapat sambutan untuk admin serta informasi jumlah artikel dan jumlah foto di galeri. Navigasi utama terletak di sisi kiri halaman, berisi menu untuk beranda, kelola artikel, kelola galeri, about, dan logout.
+Halaman Login digunakan oleh admin untuk masuk ke dalam sistem pengelolaan website. Tampilan terdiri dari dua input, yaitu username dan password, serta dua tombol aksi: login dan batal. Desain halaman dibuat menarik dengan nuansa warna pink dan latar belakang animasi malam, memberikan kesan personal dan nyaman saat digunakan.
 
 
