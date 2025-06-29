@@ -36,3 +36,18 @@ Halaman Gallery menampilkan berbagai foto pribadi atau momen penting pemilik web
 	•	Momen perayaan Hari Guru.
 	•	Foto-foto di lingkungan sekolah.
 Setiap foto memiliki keterangan di bawahnya, sehingga pengunjung dapat memahami konteks atau kenangan dari foto tersebut.
+
+![image](https://github.com/user-attachments/assets/4f30bc97-df69-4147-a401-377141d15366)
+
+Halaman About
+
+Halaman ini berisi profil singkat dari pemilik website, yaitu Zahara Fauziyah. Teks ditampilkan dalam kotak berwarna pink yang menarik dan ramah pembaca. Dalam deskripsinya, Zahara memperkenalkan diri secara santai, menceritakan hobi, alasan memilih jurusan Sistem Informasi, dan perjalanan pendidikan dari SD hingga menjadi mahasiswa Universitas Subang.
+
+
+![image](https://github.com/user-attachments/assets/be3df0a8-6fba-4990-8046-2ba8106aedb7)
+
+Halaman Dashboard Admin
+
+Halaman ini merupakan halaman awal yang muncul setelah admin berhasil login. Tampilan dashboard didesain dengan nuansa warna pink yang menarik dan karakter visual yang lucu. Di bagian tengah halaman terdapat sambutan untuk admin serta informasi jumlah artikel dan jumlah foto di galeri. Navigasi utama terletak di sisi kiri halaman, berisi menu untuk beranda, kelola artikel, kelola galeri, about, dan logout.
+
+
