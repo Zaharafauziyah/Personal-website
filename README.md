@@ -9,6 +9,7 @@ Tampilan halaman didesain menarik, termasuk penambahan background gambar pada ha
 Struktur Website
 
 Website dibagi menjadi 2 bagian utama:
+
 1.	Halaman Publik – dapat diakses oleh semua pengunjung.
 2.	Halaman Admin – hanya dapat diakses setelah login, digunakan untuk mengelola konten.
 
@@ -17,31 +18,44 @@ Fitur-Fitur Website
 🔐 Login & Logout
 
 • Admin dapat masuk menggunakan username dan password.
+
 • Tersedia background khusus di halaman login agar tampil lebih menarik.
+
 • Logout mengakhiri sesi dengan aman.
 
 📰 Manajemen Artikel
 
 • Tambah, edit, dan hapus artikel.
+
 • Artikel dilengkapi dengan:
-• Gambar pendukung di atas judul artikel.
-• Kolom komentar di bawah artikel, memungkinkan pengunjung menanggapi.
+
+	• Gambar pendukung di atas judul artikel.
+ 
+	• Kolom komentar di bawah artikel, memungkinkan pengunjung menanggapi.
+ 
 • Artikel terbaru ditampilkan di halaman beranda dengan tata letak dua kolom:
-• Kolom kiri menampilkan isi artikel terbaru.
-• Kolom kanan menampilkan daftar judul artikel.
+
+	• Kolom kiri menampilkan isi artikel terbaru.
+ 
+	• Kolom kanan menampilkan daftar judul artikel.
 
 
 🖼️ Manajemen Galeri
 
 • Admin bisa:
-• Upload gambar + judul.
-• Edit judul atau mengganti gambar.
-• Hapus gambar.
-• Tampilan galeri publik ditata grid agar responsif.
+
+	• Upload gambar + judul.
+ 
+	• Edit judul atau mengganti gambar.
+ 
+	• Hapus gambar.
+ 
+	• Tampilan galeri publik ditata grid agar responsif.
 
 👤 Halaman About
 
 • Admin dapat menambahkan dan mengedit deskripsi pribadi.
+
 • Tampil di halaman about publik secara utuh dan mudah dibaca.
 
 Fitur Tambahan
