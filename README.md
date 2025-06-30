@@ -7,15 +7,15 @@ Tampilan halaman didesain menarik, termasuk penambahan background gambar pada ha
 Struktur Website
 
 Website dibagi menjadi 2 bagian utama:
-	1.	Halaman Publik – dapat diakses oleh semua pengunjung.
-	2.	Halaman Admin – hanya dapat diakses setelah login, digunakan untuk mengelola konten.
+1.	Halaman Publik – dapat diakses oleh semua pengunjung.
+2.	Halaman Admin – hanya dapat diakses setelah login, digunakan untuk mengelola konten.
 
 Fitur-Fitur Website
 
 🔐 Login & Logout
-	•	Admin dapat masuk menggunakan username dan password.
-	•	Tersedia background khusus di halaman login agar tampil lebih menarik.
-	•	Logout mengakhiri sesi dengan aman.
+•	Admin dapat masuk menggunakan username dan password.
+•	Tersedia background khusus di halaman login agar tampil lebih menarik.
+•	Logout mengakhiri sesi dengan aman.
 
 📰 Manajemen Artikel
 	•	Tambah, edit, dan hapus artikel.
@@ -50,6 +50,7 @@ Teknologi yang Digunakan
 	•	Server Lokal: XAMPP
 	•	Editor: Visual Studio Code
 
+
  
 ![image](https://github.com/user-attachments/assets/662fa156-39ee-4c78-bac2-158a4829faea)
 
@@ -58,40 +59,46 @@ Halaman Login Administrator
 Halaman ini merupakan antarmuka login yang digunakan untuk masuk ke dalam sistem administrator pada sebuah website personal. 
 
 Elemen Desain Utama:
-	1.	Latar Belakang:
+1.	Latar Belakang:
 	•	Menggunakan gambar latar anime bertema langit malam berbintang dan meteor berjatuhan, yang memberikan kesan estetis dan menarik.
-	2.	Form Login:
+2.	Form Login:
 	•	Diletakkan di tengah halaman dengan tampilan kotak transparan gelap (semi transparan).
 	•	Terdapat teks berjudul “Login Administrator” berwarna pink cerah, yang menonjol dan mudah dibaca.
-	3.	Input Form:
+3.	Input Form:
 	•	Dua buah field input:
 	•	Username (input teks)
 	•	Password (input tipe password)
 	•	Kedua field memiliki latar putih dengan pinggiran halus, menonjol dari latar belakang.
-	4.	Tombol Aksi:
+4.	Tombol Aksi:
 	•	Login (warna pink tua, mencolok)
 	•	Cancel (warna pink muda)
 	•	Desain tombol terlihat
 
+
 ![Screenshot (110)](https://github.com/user-attachments/assets/8de61775-9b00-497f-8760-ca3a4430b22e)
+
 
 Halaman Home / Artikel
 	
 Halaman ini merupakan tampilan utama yang menyajikan daftar artikel terbaru yang telah dipublikasikan.
 
-	Terdiri dari dua kolom:
+Terdiri dari dua kolom:
 	•	Kiri: Artikel terbaru lengkap dengan gambar, judul, dan cuplikan isi.
 	•	Kanan: Daftar judul artikel lainnya.
 	•	Setiap artikel terbaru dilengkapi gambar untuk membantu pembaca lebih memahami isi.
 	•	Pengunjung dapat membaca ringkasan artikel sebelum membuka halaman lengkapnya.
+ 
 
 ![Screenshot (111)](https://github.com/user-attachments/assets/c76fe3a7-46a4-41fe-98c5-ca7323445765)
+
 
 Elemen Tambahan – Komentar
 
 Elemen tambahan pada halaman ini adalah fitur komentar yang terletak di bagian bawah artikel. Pengunjung dapat mengisi nama dan menulis komentar sebagai tanggapan terhadap artikel yang dibaca. Kolom komentar ini terdiri dari form input nama, kolom teks komentar, serta tombol kirim dan batal. Fitur ini menambah interaksi antara pembaca dan penulis artikel dalam halaman personal web.
 
+
 ![image](https://github.com/user-attachments/assets/64f6e67b-1e9e-4636-a08d-370fd88e5ab7)
+
 
 Halaman Gallery
 
@@ -102,14 +109,16 @@ Halaman Gallery menampilkan berbagai foto pribadi atau momen penting pemilik web
 	•	Foto-foto di lingkungan sekolah.
 Setiap foto memiliki keterangan di bawahnya, sehingga pengunjung dapat memahami konteks atau kenangan dari foto tersebut.
 
+
 ![image](https://github.com/user-attachments/assets/4f30bc97-df69-4147-a401-377141d15366)
+
 
 Deskripsi Halaman About Me | zahara
 
 Halaman ini merupakan bagian dari website personal dengan judul “About Me | zahara”, yang bertujuan untuk memperkenalkan diri pemilik website kepada pengunjung.
 
 Struktur dan Desain Tampilan:
-	1.	Header Navigasi:
+1.	Header Navigasi:
 	•	Warna dominan pink cerah, memberikan kesan ceria dan personal.
 	•	Judul halaman: “About Me | zahara” ditampilkan di tengah bagian header.
 	•	Terdapat menu navigasi horizontal berwarna pink muda dengan pilihan:
@@ -117,12 +126,13 @@ Struktur dan Desain Tampilan:
 	•	Gallery
 	•	About
 	•	Login
-	2.	Konten Utama (Isi Perkenalan):
+
+3.	Konten Utama (Isi Perkenalan):
 	•	Diletakkan di tengah dengan background kotak pink muda.
 	•	Tulisan pembuka “HALLO SEMUANYAA!!” dicetak tebal dan berwarna pink tua.
 	•	Isi paragraf memperkenalkan diri 
 	
-	3.	Footer:
+3.	Footer:
 	•	Berisi teks hak cipta:
 	•	© 2025 | Created by zahara
 	•	Menggunakan warna pink tua senada dengan header.
@@ -130,6 +140,7 @@ Struktur dan Desain Tampilan:
 
 
 ![image](https://github.com/user-attachments/assets/4d6567c9-7724-4e72-9e87-4d03fce3d9aa)
+
 
 Halaman Dashboard Admin
 
@@ -155,12 +166,14 @@ Admin diarahkan untuk menggunakan menu di samping kiri untuk mengelola data-data
 
 ![image](https://github.com/user-attachments/assets/de23286e-7b62-4755-9890-ff9d51b3adda)
 
+
 Halaman Kelola Artikel
 
 Halaman Kelola Artikel digunakan untuk menampilkan dan mengatur daftar artikel yang telah dipublikasikan. Artikel disusun dalam tabel yang berisi nomor, judul, isi ringkasan, gambar, dan aksi. Admin dapat menambahkan artikel baru melalui tombol “+ Tambah Artikel”, serta mengedit atau menghapus artikel yang sudah ada melalui tombol yang tersedia di kolom aksi.
 
 
 ![image](https://github.com/user-attachments/assets/82583bc3-592b-4eab-b5ec-b53deaafb19e)
+
 
 Tambah Artikel Baru
 
@@ -170,6 +183,7 @@ Di bagian bawah form terdapat dua tombol aksi, yaitu tombol “Simpan” untuk m
 
 
 ![image](https://github.com/user-attachments/assets/888b53ca-b7d5-4cb7-a85f-9a829f16c6c8)
+
 
 Halaman Edit Artikel
 
